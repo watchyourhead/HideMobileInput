@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107524444033",
+    "firebase_url": "https://journeyx-b6325-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "journeyx-b6325",
+    "storage_bucket": "journeyx-b6325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107524444033:android:0035e62e1bfe6eaeae6280",
+        "android_client_info": {
+          "package_name": "com.journeyx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxctYdR5AynnJW6eZuhgDToxi1tCY438o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
